@@ -7,6 +7,7 @@
 
 ![lang: PHP](https://img.shields.io/badge/lang-php-blueviolet?style=for-the-badge)
 ![Lang: Python](https://img.shields.io/badge/Lang-python-brightgreen?style=for-the-badge)
-![lang:javascript](https://img.shields.io/badge/lang-JavaScript-blue?style=for-the-badge)
+![lang:javascript](https://img.shields.io/badge/lang-JavaScript-yellow?style=for-the-badge)
 ![FW: CakePHP2](https://img.shields.io/badge/fw-cakephp2-blueviolet?style=for-the-badge)
 ![FW: Django](https://img.shields.io/badge/fw-django-brightgreen?style=for-the-badge)
+![FW:jquery](https://img.shields.io/badge/fw-jquery-yellow?style=for-the-badge)
