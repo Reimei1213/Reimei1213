@@ -11,3 +11,6 @@
 ![FW: CakePHP2](https://img.shields.io/badge/fw-cakephp2-blueviolet?style=for-the-badge)
 ![FW: Django](https://img.shields.io/badge/fw-django-brightgreen?style=for-the-badge)
 ![FW:jquery](https://img.shields.io/badge/fw-jquery-yellow?style=for-the-badge)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
