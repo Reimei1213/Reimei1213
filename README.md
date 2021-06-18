@@ -4,12 +4,13 @@
 ![Type: Student](https://img.shields.io/badge/type-univercity_student-blue?style=for-the-badge)
 ![Job: Backend Engineer](https://img.shields.io/badge/work-backend%20engineer-orange?style=for-the-badge)  
 ![Internship: Qwintet](https://img.shields.io/badge/internship-qwintet-red?style=for-the-badge)  
+![Internship: var](https://img.shields.io/badge/internship-var-red?style=for-the-badge)  
 
 ![lang: PHP](https://img.shields.io/badge/lang-php-blueviolet?style=for-the-badge)
 ![Lang: Python](https://img.shields.io/badge/Lang-python-brightgreen?style=for-the-badge)
 ![lang:javascript](https://img.shields.io/badge/lang-JavaScript-yellow?style=for-the-badge)
 ![lang:C#](https://img.shields.io/badge/lang-c%23-green?style=for-the-badge)
-
+<br>
 ![FW: CakePHP2](https://img.shields.io/badge/fw-cakephp2-blueviolet?style=for-the-badge)
 ![FW: Django](https://img.shields.io/badge/fw-django-brightgreen?style=for-the-badge)
 ![FW:jquery](https://img.shields.io/badge/fw-jquery-yellow?style=for-the-badge)
