@@ -9,11 +9,13 @@
 ![lang: PHP](https://img.shields.io/badge/lang-php-blueviolet?style=for-the-badge)
 ![Lang: Python](https://img.shields.io/badge/Lang-python-brightgreen?style=for-the-badge)
 ![lang:javascript](https://img.shields.io/badge/lang-JavaScript-yellow?style=for-the-badge)
+![lang:Go](https://img.shields.io/badge/lang-Go-00BFFF?style=for-the-badge)
 ![lang:C#](https://img.shields.io/badge/lang-c%23-green?style=for-the-badge)
 <br>
 ![FW: CakePHP2](https://img.shields.io/badge/fw-cakephp2-blueviolet?style=for-the-badge)
 ![FW: Django](https://img.shields.io/badge/fw-django-brightgreen?style=for-the-badge)
 ![FW:jquery](https://img.shields.io/badge/fw-jquery-yellow?style=for-the-badge)
+![FW:echo](https://img.shields.io/badge/fw-echo-00BFFF?style=for-the-badge)
 ![PF:Unity](https://img.shields.io/badge/pf-unity-green?style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
