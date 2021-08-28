@@ -6,15 +6,6 @@
 ![Internship: Qwintet](https://img.shields.io/badge/internship-qwintet-red?style=for-the-badge)  
 ![Internship: var](https://img.shields.io/badge/internship-var-red?style=for-the-badge)  
 
-![lang: PHP](https://img.shields.io/badge/lang-php-blueviolet?style=for-the-badge)
-![Lang: Python](https://img.shields.io/badge/Lang-python-brightgreen?style=for-the-badge)
-![lang:javascript](https://img.shields.io/badge/lang-JavaScript-yellow?style=for-the-badge)
-![lang:Go](https://img.shields.io/badge/lang-Go-00BFFF?style=for-the-badge)
-![lang:C#](https://img.shields.io/badge/lang-c%23-green?style=for-the-badge)
-<br>
-
-![PF:Unity](https://img.shields.io/badge/pf-unity-green?style=for-the-badge)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
