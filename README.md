@@ -26,6 +26,18 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+## Work History
+- トクヤマ情報サービス　/ 2018年8月 ~ 8月
+- ピカクス株式会社 / 2020年8月 ~ 8月
+  - Unity/C#を用いたモバイルゲーム開発
+- クインテット株式会社 / 2020年11月 ~ 現在
+  - CakePHP2/PHPを用いたwebバックエンド開発
+  - jQuery/JavaScriptを用いたwebフロントエンド開発
+- 株式会社var / 2021年7月 ~ 現在
+  - echo/Goを用いたwebバックエンド開発
+  - Django/Python3を用いたwebバックエンド開発
+  - DB設計
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Reimei1213&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
