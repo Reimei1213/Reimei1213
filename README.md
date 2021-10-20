@@ -34,7 +34,7 @@
   - CakePHP2/PHPを用いたwebバックエンド開発
   - jQuery/JavaScriptを用いたwebフロントエンド開発
 - 株式会社var / 2021年7月 ~ 現在
-  - echo/Goを用いたwebバックエンド開発
+  - echo/Go・GraphQLを用いたwebバックエンド開発
   - Django/Python3を用いたwebバックエンド開発
   - DB設計
 
