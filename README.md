@@ -42,7 +42,8 @@
 - 株式会社var / 2021年7月 ~ 現在
   - echo/Go・GraphQLを用いたwebバックエンド開発
   - Django/Python3を用いたwebバックエンド開発
-  - lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
+  - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
+  - Reactを用いたWebサイトの改修
   - DB設計
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
