@@ -45,6 +45,8 @@
   - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
   - Reactを用いたWebサイトの改修
   - DB設計
+- jig.jp / 2021年8月16日 ~ 2021年8月20日
+  - ハッカソン形式のインターンシップ
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
