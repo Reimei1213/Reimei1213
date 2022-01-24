@@ -45,8 +45,6 @@
   - Django/Python3を用いたwebバックエンド開発
   - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
   - Reactを用いたWebサイトの改修
-  - IT初心者向け授業
-  - twitterAPIの作成
   - [envader.plus](https://envader.plus/) Python環境構築コースのシナリオ作成
   - DB設計
 - jig.jp / 2021年8月16日 ~ 2021年8月20日
