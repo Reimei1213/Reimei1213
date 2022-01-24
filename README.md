@@ -37,11 +37,11 @@
 - ピカクス株式会社 / 2020年8月 ~ 8月 (3週間)
   - Unity/C#を用いたモバイル向けのカジュアルゲーム開発
 - クインテット株式会社 / 2020年11月 ~ 現在
-  - CakePHP2/PHPを用いたwebバックエンド開発
+  - CakePHP2/PHP,MySQLを用いたwebバックエンド開発
   - jQuery/JavaScriptを用いたwebフロントエンド開発
 - 株式会社var / 2021年7月 ~ 現在
-  - echo/Go・GraphQLを用いたwebバックエンド開発
-  - Django/Python3,Docker,EC2,RDS,DynamoDBを用いたwebバックエンド開発
+  - echo/Go・GraphQL,MySQLを用いたwebバックエンド開発
+  - Django/Python3,MySQL,Docker,EC2,RDS,DynamoDBを用いたwebバックエンド開発
   - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
   - Reactを用いたWebサイトの改修
   - [envader.plus](https://envader.plus/) Python環境構築コースのシナリオ作成
