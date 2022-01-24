@@ -41,9 +41,13 @@
   - jQuery/JavaScriptを用いたwebフロントエンド開発
 - 株式会社var / 2021年7月 ~ 現在
   - echo/Go・GraphQLを用いたwebバックエンド開発
+  - Django/Python3,Docker,EC2,RDS,DynamoDBを用いたwebバックエンド開発
   - Django/Python3を用いたwebバックエンド開発
   - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
   - Reactを用いたWebサイトの改修
+  - IT初心者向け授業
+  - twitterAPIの作成
+  - [envader.plus](https://envader.plus/) Python環境構築コースのシナリオ作成
   - DB設計
 - jig.jp / 2021年8月16日 ~ 2021年8月20日
   - ハッカソン形式のインターンシップ
