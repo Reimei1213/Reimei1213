@@ -40,7 +40,7 @@
   - CakePHP2/PHP,MySQLを用いたwebバックエンド開発
   - jQuery/JavaScriptを用いたwebフロントエンド開発
 - 株式会社var / 2021年7月 ~ 現在
-  - echo/Go・GraphQL,MySQLを用いたwebバックエンド開発
+  - Go,GraphQL,MySQLを用いたwebバックエンド開発
   - Django/Python3,MySQL,Docker,EC2,RDS,DynamoDBを用いたwebバックエンド開発
   - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
   - Reactを用いたWebサイトの改修
