@@ -3,7 +3,6 @@
 ![Age: 20](https://img.shields.io/badge/age-20-green?style=for-the-badge)
 ![Type: Student](https://img.shields.io/badge/type-univercity_student-blue?style=for-the-badge)
 ![Job: Backend Engineer](https://img.shields.io/badge/work-backend%20engineer-orange?style=for-the-badge)  
-![Internship: Qwintet](https://img.shields.io/badge/internship-qwintet-red?style=for-the-badge)  
 ![Internship: var](https://img.shields.io/badge/internship-var-red?style=for-the-badge)  
 
 <h3 align="left">Languages and Tools:</h3>
