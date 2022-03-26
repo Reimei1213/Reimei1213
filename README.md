@@ -6,6 +6,8 @@
 ![Internship: var](https://img.shields.io/badge/internship-var-red?style=for-the-badge)
 ![Internship: JX](https://img.shields.io/badge/internship-JX通信社-red?style=for-the-badge)
 
+[![Dictdjekxocysjs](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDictdjekxocysjs)](https://atcoder.jp/users/Dictdjekxocysjs)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
