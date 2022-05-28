@@ -55,6 +55,7 @@
 - 株式会社JX通信社 / 2022年3月 ~ 現在
   - Django/Python3,MySQLを用いたwebバックエンド開発
   - Next/TypeScriptを用いたwebフロントエンド開発
+  - Go, GraphQLを用いたwebバックエンド開発
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
