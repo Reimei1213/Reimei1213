@@ -8,6 +8,9 @@
 
 [![Dictdjekxocysjs](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDictdjekxocysjs)](https://atcoder.jp/users/Dictdjekxocysjs)
 
+- [トビタテ！留学JAPAN](https://tobitate.mext.go.jp/) 高校生コース/プロフェッショナル/未来テクノロジー枠に採択
+- [セキュリティ・キャンプ全国大会](https://www.security-camp.or.jp/) Web セキュリティクラスに採択
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
