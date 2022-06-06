@@ -9,6 +9,8 @@
 [![Dictdjekxocysjs](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDictdjekxocysjs)](https://atcoder.jp/users/Dictdjekxocysjs)
 
 - [トビタテ！留学JAPAN](https://tobitate.mext.go.jp/) 高校生コース/プロフェッショナル/未来テクノロジー枠に採択
+  - スタンフォード大学で開催されてITキャンプに参加
+  - スタンフォード大学の研究室に訪問
 - [セキュリティ・キャンプ全国大会](https://www.security-camp.or.jp/) Web セキュリティクラスに採択
 
 <h3 align="left">Languages and Tools:</h3>
