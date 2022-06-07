@@ -7,6 +7,7 @@
 ![Internship: JX](https://img.shields.io/badge/internship-JX通信社-red?style=for-the-badge)
 
 [![Dictdjekxocysjs](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDictdjekxocysjs)](https://atcoder.jp/users/Dictdjekxocysjs)
+![](https://komarev.com/ghpvc/?username=Reimei1213)
 
 - [トビタテ！留学JAPAN](https://tobitate.mext.go.jp/) 高校生コース/プロフェッショナル分野/未来テクノロジー人材枠に採択
   - スタンフォード大学で開催されたITキャンプに参加
