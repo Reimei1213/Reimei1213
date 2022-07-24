@@ -58,7 +58,7 @@
 - jig.jp / 2021年8月16日 ~ 2021年8月20日
   - ハッカソン形式のインターンシップ
   - Deno・jQuery / JavaScriptを用いたwebアプリケーション開発
-- 株式会社JX通信社 / 2022年3月 ~ 現在
+- 株式会社JX通信社 / 2022年3月 ~ 2022年7月
   - Django/Python3,MySQLを用いたwebバックエンド開発
   - Next/TypeScriptを用いたwebフロントエンド開発
   - Go, GraphQLを用いたwebバックエンド開発
