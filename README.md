@@ -4,7 +4,6 @@
 ![Type: Student](https://img.shields.io/badge/type-univercity_student-blue?style=for-the-badge)
 ![Job: Backend Engineer](https://img.shields.io/badge/work-backend%20engineer-orange?style=for-the-badge)  
 ![Internship: var](https://img.shields.io/badge/internship-var-red?style=for-the-badge)
-![Internship: JX](https://img.shields.io/badge/internship-JX通信社-red?style=for-the-badge)
 
 [![Dictdjekxocysjs](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDictdjekxocysjs)](https://atcoder.jp/users/Dictdjekxocysjs)
 ![](https://komarev.com/ghpvc/?username=Reimei1213)
