@@ -11,7 +11,7 @@
 - [トビタテ！留学JAPAN](https://tobitate.mext.go.jp/) 高校生コース/プロフェッショナル分野/未来テクノロジー人材枠に採択
   - スタンフォード大学で開催されたITキャンプに参加
   - スタンフォード大学の研究室に訪問
-- [セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Web セキュリティクラスに採択
+- [セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) Webセキュリティクラス修了
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
