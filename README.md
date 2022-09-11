@@ -63,6 +63,7 @@
   - Go, GraphQLを用いたwebバックエンド開発
 - 株式会社アカツキ（Akatsuki Inc.) / 2022年8月(3週間)
   - [Amazon Aurora MySQL 2からAmazon Aurora MySQL 3への移行に関する調査・検証](https://hackerslab.aktsk.jp/2022/09/05/155018)
+- 株式会社ゆめみ / 2022年9月(1週間)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
