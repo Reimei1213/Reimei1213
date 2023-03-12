@@ -41,6 +41,7 @@
 </p>
 
 ## Work History 
+### インターンシップ
 <details>
 <summary>トクヤマ情報サービス / 2019年8月 ~ 8月 (3週間)</summary>
 </details>
