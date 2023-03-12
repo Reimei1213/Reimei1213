@@ -67,6 +67,7 @@
   - AWSを用いたWebサーバー構築
 - 株式会社CyberAgent / 2022年9月(3週間)
 - 株式会社リクルート / 2022年10月 ~ 2022年11月(6週間)
+- 株式会社CyberAgent / 2023年2月 ~ 現在
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
