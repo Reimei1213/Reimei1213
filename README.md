@@ -40,34 +40,73 @@
   
 </p>
 
-## Work History
-- トクヤマ情報サービス / 2019年8月 ~ 8月 (3週間)
-- ピカクス株式会社 / 2020年8月 ~ 8月 (3週間)
-  - Unity/C#を用いたモバイル向けのカジュアルゲーム開発
-- 株式会社クインテット / 2020年11月 ~ 2022年2月
-  - CakePHP2/PHP,MySQLを用いたwebバックエンド開発
-  - jQuery/JavaScriptを用いたwebフロントエンド開発
-- 株式会社var / 2021年7月 ~ 現在
-  - Go,GraphQL,MySQLを用いたwebバックエンド開発
-  - Django/Python3,MySQL,Docker,EC2,RDS,DynamoDBを用いたwebバックエンド開発
-  - Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
-  - Reactを用いたWebサイトの改修
-  - [envader.plus](https://envader.plus/) Python環境構築コースのシナリオ作成
-  - DB設計
-- jig.jp / 2021年8月16日 ~ 2021年8月20日
-  - ハッカソン形式のインターンシップ
-  - Deno・jQuery / JavaScriptを用いたwebアプリケーション開発
-- 株式会社JX通信社 / 2022年3月 ~ 2022年7月
-  - Django/Python3,MySQLを用いたwebバックエンド開発
-  - Next/TypeScriptを用いたwebフロントエンド開発
-  - Go, GraphQLを用いたwebバックエンド開発
-- 株式会社アカツキ（Akatsuki Inc.) / 2022年8月(3週間)
-  - [Amazon Aurora MySQL 2からAmazon Aurora MySQL 3への移行に関する調査・検証](https://hackerslab.aktsk.jp/2022/09/05/155018)
-- 株式会社ゆめみ / 2022年9月(1週間)
-  - AWSを用いたWebサーバー構築
-- 株式会社CyberAgent / 2022年9月(3週間)
-- 株式会社リクルート / 2022年10月 ~ 2022年11月(6週間)
-- 株式会社CyberAgent / 2023年2月 ~ 現在
+## Work History 
+<details>
+<summary>トクヤマ情報サービス / 2019年8月 ~ 8月 (3週間)</summary>
+</details>
+    
+<details>
+<summary>ピカクス株式会社 / 2020年8月 ~ 8月 (3週間)</summary>
+
+- Unity/C#を用いたモバイル向けのカジュアルゲーム開発
+</details>
+    
+<details>
+<summary>株式会社クインテット / 2020年11月 ~ 2022年2月</summary>
+
+- CakePHP2/PHP,MySQLを用いたwebバックエンド開発
+- jQuery/JavaScriptを用いたwebフロントエンド開発
+</details>
+
+<details>
+<summary>株式会社var / 2021年7月 ~ 現在</summary>
+  
+- Go,GraphQL,MySQLを用いたwebバックエンド開発
+- Django/Python3,MySQL,Docker,EC2,RDS,DynamoDBを用いたwebバックエンド開発
+- Go,Lambda,API Gateway,SES,DynamoDBを用いたサーバーレスWebAPI開発
+- Reactを用いたWebサイトの改修
+- [envader.plus](https://envader.plus/) Python環境構築コースのシナリオ作成
+- DB設計
+</details>
+    
+<details>
+<summary>jig.jp / 2021年8月16日 ~ 2021年8月20日</summary>
+
+- ハッカソン形式のインターンシップ
+- Deno・jQuery / JavaScriptを用いたwebアプリケーション開発
+</details>
+  
+<details>
+<summary>株式会社JX通信社 / 2022年3月 ~ 2022年7月</summary>
+
+- Django/Python3,MySQLを用いたwebバックエンド開発
+- Next/TypeScriptを用いたwebフロントエンド開発
+- Go, GraphQLを用いたwebバックエンド開発
+</details>
+  
+<details>
+<summary>株式会社アカツキ（Akatsuki Inc.) / 2022年8月(3週間)</summary>
+
+- [Amazon Aurora MySQL 2からAmazon Aurora MySQL 3への移行に関する調査・検証](https://hackerslab.aktsk.jp/2022/09/05/155018)
+</details>
+  
+<details>
+<summary>株式会社ゆめみ / 2022年9月(1週間)</summary>
+
+- AWSを用いたWebサーバー構築
+</details>
+  
+<details>
+<summary>株式会社CyberAgent / 2022年9月(3週間)</summary>
+</details>
+  
+<details>
+<summary>株式会社リクルート / 2022年10月 ~ 2022年11月(6週間)</summary>
+</details>
+
+<details>
+<summary>株式会社CyberAgent / 2023年2月 ~ 現在</summary>
+</details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reimei1213&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Reimei1213&show_icons=true&theme=dark&hide=stars&count_private=true)
