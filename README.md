@@ -1,10 +1,9 @@
 # ![Hi!](https://twemoji.maxcdn.com/v/13.0.0/72x72/1f44b.png) Hi,  I’m @Reimei1213!  
 
-![Age: 21](https://img.shields.io/badge/age-21-green?style=for-the-badge)
+![Age: 22](https://img.shields.io/badge/age-22-green?style=for-the-badge)
 ![Type: Student](https://img.shields.io/badge/type-univercity_student-blue?style=for-the-badge)
 ![Job: Backend Engineer](https://img.shields.io/badge/work-backend%20engineer-orange?style=for-the-badge)  
 ![Internship: var](https://img.shields.io/badge/internship-var-red?style=for-the-badge)
-![Internship: CyberAgent](https://img.shields.io/badge/internship-CyberAgent-red?style=for-the-badge)
 
 [![Dictdjekxocysjs](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDictdjekxocysjs)](https://atcoder.jp/users/Dictdjekxocysjs)
 ![](https://komarev.com/ghpvc/?username=Reimei1213)
